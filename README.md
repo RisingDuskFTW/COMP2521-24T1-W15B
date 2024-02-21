@@ -13,3 +13,12 @@ Code created during my W15B tutorials for COMP2521 in 24T1
 - Malloc Revision Q4: Arrays
 - Linked List Revision Q1: Linked List Representations
 - Linked List Revision Q2: Summing a list
+
+## Week 2: Compilation and Recursion
+
+- Recursion Q0: Factorials
+- Recurison Q2: Count odd numbers
+- Recursion Q3: Checking a list is sorted
+- Recursion Q4: Deleting a value
+- Time Complexity Q0: Two Loops
+- Time Complexity Q1: Palindrome
