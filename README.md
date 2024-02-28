@@ -22,3 +22,11 @@ Code created during my W15B tutorials for COMP2521 in 24T1
 - Recursion Q4: Deleting a value
 - Time Complexity Q0: Two Loops
 - Time Complexity Q1: Palindrome
+
+## Week 3: Sorting Algorithms
+
+- Q1: Stable Sorting
+- Q2: Bubble & Insertion Sort
+- Q3: Merge Sort
+- Q4: Quick Sort
+- Revision Q1: Sort Terminology
