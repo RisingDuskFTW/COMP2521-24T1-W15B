@@ -30,3 +30,11 @@ Code created during my W15B tutorials for COMP2521 in 24T1
 - Q3: Merge Sort
 - Q4: Quick Sort
 - Revision Q1: Sort Terminology
+
+## Week 4: ADTs and Binary Search Trees
+
+- ADT Q1: Using an ADT (Stack)
+- BST Q1: Insertion
+- BST Q2: Traversal
+- BST Q4: Count internal nodes
+- BST Q6: Count Greater than val
