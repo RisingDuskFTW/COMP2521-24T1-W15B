@@ -38,3 +38,13 @@ Code created during my W15B tutorials for COMP2521 in 24T1
 - BST Q2: Traversal
 - BST Q4: Count internal nodes
 - BST Q6: Count Greater than val
+
+## Week 5: AVL Trees, Graph Basics
+
+- Balancing Trees Q1: Tree Rotation
+- AVL Trees Q1: Inserting into an AVL Tree
+- AVL Trees Q2: Creating an AVL Tree
+- Graphs Q1: Graph Terminology
+- Graphs Q2: Graph Representations
+- Graphs Q3: Adjacency Matrices
+- Style Q1: A Tutor's Worst Nightmare
