@@ -48,3 +48,11 @@ Code created during my W15B tutorials for COMP2521 in 24T1
 - Graphs Q2: Graph Representations
 - Graphs Q3: Adjacency Matrices
 - Style Q1: A Tutor's Worst Nightmare
+
+## Week 7: Graphs and Graph Traversal
+
+- Graph Traversal: Breadth First Search & Depth First Search
+- Graph Theory Q1: More Terminology
+- Graph Theory Q2: Connected Components
+- Graph Theory Q3: Abstract Graph Problem
+- Graph Theory Q4: Euler / Hamiltonian Paths & Circuits
