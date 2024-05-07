@@ -72,3 +72,11 @@ Code created during my W15B tutorials for COMP2521 in 24T1
 - Q3: Hash Collisions
 - Q4: Hash Tables vs AVL Trees
 - Q5: Three Sum with a Hash Table
+
+## Week 10: Heaps and Tries
+
+- Heaps Q2: Heap as Array and Binary Tree
+- Tries Q1: Tries
+- Tries Q2 & Q4: Tries
+- Tries Q3: Insertion
+- Kahoot
